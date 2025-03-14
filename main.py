@@ -120,6 +120,4 @@ else:
     t.write("incorrect", font=("airial", 30, "normal"), align="center")
 
 
-
-
 turtle.done()
